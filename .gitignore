@@ -1,0 +1,6 @@
+bin/buildout
+bin/django*
+eggs/*
+.installed.cfg
+parts/*
+downloads/*
